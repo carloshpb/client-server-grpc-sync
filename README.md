@@ -1,5 +1,7 @@
 # client_server_grpc_sync
 
+A client-server message communication service by using gRPC and Protocol Buffer in synchronous mode.
+
 This application was generated using JHipster 6.3.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.3.0](https://www.jhipster.tech/documentation-archive/v6.3.0).
 
 ## Development
